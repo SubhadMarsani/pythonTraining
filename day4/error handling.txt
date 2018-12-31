@@ -1,0 +1,4 @@
+why error handling?
+basic try except statements
+excepting specific types of errors
+else and finally clause
