@@ -1,0 +1,21 @@
+Python 
+
+print ("Hello World")
+
+make a .py file from text editor
+
+---- variable
+G variable
+float
+int
+long
+string
+blown
+
+Variable implicity declared in python i.e strong types
+
+Numerical.. float int
+string .. "  ---  "
+list .. [  ]
+tuple .. ( )
+dictionary .. {K:V}

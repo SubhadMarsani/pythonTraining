@@ -1,0 +1,3 @@
+x = 10
+y = 12
+if x > y then 'True' else 'False'
